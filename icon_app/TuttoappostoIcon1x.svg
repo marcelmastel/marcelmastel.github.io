@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="294px" viewBox="0 0 290 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Tuttoapposto Icon@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.2%" y="-60.4%" width="224.5%" height="220.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.595722854   0 0 0 0 0.595722854   0 0 0 0 1  0 0 0 0.381765172 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0.4982 200 0.4982 200 205 0 205"></polygon>
+        <path d="M20.849,20.22 L7.631,20.22 L0.546,40.522 L20.849,40.522 L20.849,67.328 C20.849,74.887 26.976,81.014 34.535,81.014 L37.091,81.014 L40.591,81.014 L84.101,81.014 L84.101,60.713 L40.591,60.713 L40.591,40.522 L60.893,40.522 L60.893,20.22 L40.591,20.22 L40.591,8.268 L20.849,0.031 L20.849,20.22 Z" id="path-4"></path>
+        <linearGradient x1="0.000668302316%" y1="49.9998575%" x2="99.9996551%" y2="49.9998575%" id="linearGradient-6">
+            <stop stop-color="#FF548E" offset="0%"></stop>
+            <stop stop-color="#FD2A5B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.268,26.854 L59.732,51.352 L89.588,39.026 L89.588,52.104 L106.107,45.067 L106.107,32.221 L119.215,26.863 L59.731,0.484 L0.268,26.854 Z M42.275,26.295 L59.731,18.554 L77.185,26.295 L59.731,33.485 L42.275,26.295 Z" id="path-7"></path>
+        <linearGradient x1="-0.00047651475%" y1="49.9993621%" x2="100.000183%" y2="49.9993621%" id="linearGradient-9">
+            <stop stop-color="#FF548E" offset="0%"></stop>
+            <stop stop-color="#FD2A5B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen-Copy" transform="translate(-354.000000, -1484.000000)">
+            <g id="Tuttoapposto-Icon" filter="url(#filter-1)" transform="translate(399.000000, 1508.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.502000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M150.098,205.0002 L49.902,205.0002 C22.342,205.0002 0,182.6582 0,155.0982 L0,50.4002 C0,22.8402 22.342,0.4982 49.902,0.4982 L150.098,0.4982 C177.659,0.4982 200,22.8402 200,50.4002 L200,155.0982 C200,182.6582 177.659,205.0002 150.098,205.0002" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                </g>
+                <g id="Group-6" transform="translate(48.000000, 88.502000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M20.849,20.22 L7.631,20.22 L0.546,40.522 L20.849,40.522 L20.849,67.328 C20.849,74.887 26.976,81.014 34.535,81.014 L37.091,81.014 L40.591,81.014 L84.101,81.014 L84.101,60.713 L40.591,60.713 L40.591,40.522 L60.893,40.522 L60.893,20.22 L40.591,20.22 L40.591,8.268 L20.849,0.031 L20.849,20.22 Z" id="Fill-4" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                </g>
+                <path d="M148.9359,129.0246 L148.9359,108.7216 L128.6339,108.7216 L128.6339,88.5326 L108.8929,96.7706 L108.8929,155.8306 C108.8929,163.3886 115.0199,169.5166 122.5789,169.5166 L123.6979,169.5166 L128.6339,169.5166 L148.9359,169.5166 L148.9359,149.2146 L128.6339,149.2146 L128.6339,129.0246 L148.9359,129.0246 Z" id="Fill-7" fill="#F9B313"></path>
+                <g id="Group-11" transform="translate(39.000000, 36.502000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-10"></g>
+                    <path d="M0.268,26.854 L59.732,51.352 L89.588,39.026 L89.588,52.104 L106.107,45.067 L106.107,32.221 L119.215,26.863 L59.731,0.484 L0.268,26.854 Z M42.275,26.295 L59.731,18.554 L77.185,26.295 L59.731,33.485 L42.275,26.295 Z" id="Fill-9" fill="url(#linearGradient-9)" mask="url(#mask-8)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

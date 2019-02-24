@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="294px" viewBox="0 0 290 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Flash Message@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.2%" y="-60.4%" width="224.5%" height="220.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.595722854   0 0 0 0 0.595722854   0 0 0 0 1  0 0 0 0.381765172 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0.498 200 0.498 200 204.9999 0 204.9999"></polygon>
+        <path d="M0.512,77.005 C0.512,119.465 34.933,153.885 77.392,153.885 C119.852,153.885 154.273,119.465 154.273,77.005 C154.273,34.545 119.852,0.125 77.392,0.125 C34.933,0.125 0.512,34.545 0.512,77.005" id="path-4"></path>
+        <linearGradient x1="0.000137095883%" y1="49.9999783%" x2="99.9995924%" y2="49.9999783%" id="linearGradient-6">
+            <stop stop-color="#46C1ED" offset="0%"></stop>
+            <stop stop-color="#2877F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen-Copy" transform="translate(-613.000000, -955.000000)">
+            <g id="Flash-Message" filter="url(#filter-1)" transform="translate(658.000000, 979.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.502000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M150.098,204.9999 L49.902,204.9999 C22.342,204.9999 0,182.6579 0,155.0989 L0,50.3999 C0,22.8399 22.342,0.4979 49.902,0.4979 L150.098,0.4979 C177.659,0.4979 200,22.8399 200,50.3999 L200,155.0989 C200,182.6579 177.659,204.9999 150.098,204.9999" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                </g>
+                <g id="Group-6" transform="translate(24.000000, 26.502000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M0.512,77.005 C0.512,119.465 34.933,153.885 77.392,153.885 C119.852,153.885 154.273,119.465 154.273,77.005 C154.273,34.545 119.852,0.125 77.392,0.125 C34.933,0.125 0.512,34.545 0.512,77.005" id="Fill-4" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                </g>
+                <path d="M88.1019,65.3007 L120.8729,65.3007 C122.8579,65.3007 124.0969,67.4487 123.1049,69.1667 L108.0009,95.2907 C107.0079,97.0087 108.2479,99.1567 110.2319,99.1567 L133.8649,99.1567 C136.0909,99.1567 137.2689,101.7907 135.7859,103.4507 L90.6899,153.9047 C89.1139,155.6677 86.1929,154.5527 86.1929,152.1877 L86.1929,121.8367 C86.1929,120.4137 85.0389,119.2597 83.6159,119.2597 L73.2689,119.2597 C71.5399,119.2597 70.3009,117.5897 70.8039,115.9347 L85.6369,67.1277 C85.9669,66.0427 86.9679,65.3007 88.1019,65.3007" id="Fill-7" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

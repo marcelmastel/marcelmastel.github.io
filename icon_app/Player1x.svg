@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="294px" viewBox="0 0 290 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Player@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.2%" y="-60.4%" width="224.5%" height="220.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.595722854   0 0 0 0 0.595722854   0 0 0 0 1  0 0 0 0.381765172 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0.4987 199.9995 0.4987 199.9995 204.9997 0 204.9997"></polygon>
+        <path d="M0.205,23.334 L0.205,126.164 C0.205,143.48 18.961,154.292 33.944,145.615 L122.727,94.199 C137.678,85.542 137.678,63.956 122.727,55.299 L33.944,3.883 C30.316,1.782 26.466,0.824 22.716,0.824 C10.977,0.823 0.205,10.211 0.205,23.334" id="path-4"></path>
+        <linearGradient x1="0.000101170036%" y1="49.9999751%" x2="99.9996865%" y2="49.9999751%" id="linearGradient-6">
+            <stop stop-color="#46C1ED" offset="0%"></stop>
+            <stop stop-color="#2877F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.224,39.75 C0.224,61.546 17.893,79.218 39.691,79.218 C61.489,79.218 79.16,61.546 79.16,39.75 C79.16,17.952 61.489,0.281 39.691,0.281 C17.893,0.281 0.224,17.952 0.224,39.75" id="path-7"></path>
+        <linearGradient x1="-0.00112724232%" y1="49.9996186%" x2="99.9997099%" y2="49.9996186%" id="linearGradient-9">
+            <stop stop-color="#FF548E" offset="0%"></stop>
+            <stop stop-color="#FD2A5B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen-Copy" transform="translate(-95.000000, -1485.000000)">
+            <g id="Player" filter="url(#filter-1)" transform="translate(140.000000, 1509.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.502000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M150.0985,204.9997 L49.9025,204.9997 C22.3415,204.9997 -0.0005,182.6577 -0.0005,155.0987 L-0.0005,50.3997 C-0.0005,22.8407 22.3415,0.4987 49.9025,0.4987 L150.0985,0.4987 C177.6585,0.4987 199.9995,22.8407 199.9995,50.3997 L199.9995,155.0987 C199.9995,182.6577 177.6585,204.9997 150.0985,204.9997" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                </g>
+                <g id="Group-6" transform="translate(41.000000, 28.502000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M0.205,23.334 L0.205,126.164 C0.205,143.48 18.961,154.292 33.944,145.615 L122.727,94.199 C137.678,85.542 137.678,63.956 122.727,55.299 L33.944,3.883 C30.316,1.782 26.466,0.824 22.716,0.824 C10.977,0.823 0.205,10.211 0.205,23.334" id="Fill-4" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                </g>
+                <g id="Group-9" transform="translate(50.000000, 63.502000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <path d="M0.224,39.75 C0.224,61.546 17.893,79.218 39.691,79.218 C61.489,79.218 79.16,61.546 79.16,39.75 C79.16,17.952 61.489,0.281 39.691,0.281 C17.893,0.281 0.224,17.952 0.224,39.75" id="Fill-7" fill="url(#linearGradient-9)" mask="url(#mask-8)"></path>
+                </g>
+                <g id="Group-14" transform="translate(72.000000, 85.502000)" fill="#FFFFFF">
+                    <path d="M28.3827,33.9547 L27.2717,33.9547 C23.7827,33.9547 20.9547,31.1267 20.9547,27.6387 L20.9547,7.2877 C20.9547,3.7997 23.7827,0.9717 27.2717,0.9717 L28.3827,0.9717 C31.8707,0.9717 34.6977,3.7997 34.6977,7.2877 L34.6977,27.6387 C34.6977,31.1267 31.8707,33.9547 28.3827,33.9547" id="Fill-10"></path>
+                    <path d="M7.662,33.9547 L6.551,33.9547 C3.063,33.9547 0.235,31.1267 0.235,27.6387 L0.235,7.2877 C0.235,3.7997 3.063,0.9717 6.551,0.9717 L7.662,0.9717 C11.15,0.9717 13.978,3.7997 13.978,7.2877 L13.978,27.6387 C13.978,31.1267 11.15,33.9547 7.662,33.9547" id="Fill-12"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

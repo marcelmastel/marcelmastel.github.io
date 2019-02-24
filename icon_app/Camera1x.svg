@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="294px" viewBox="0 0 290 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Camera@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.2%" y="-60.4%" width="224.5%" height="220.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.595722854   0 0 0 0 0.595722854   0 0 0 0 1  0 0 0 0.381765172 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0.4988 199.9997 0.4988 199.9997 204.9998 0 204.9998"></polygon>
+        <path d="M0.934,72.749 C0.934,112.55 33.199,144.815 73,144.815 C112.801,144.815 145.066,112.55 145.066,72.749 C145.066,32.949 112.801,0.684 73,0.684 C33.199,0.684 0.934,32.949 0.934,72.749" id="path-4"></path>
+        <linearGradient x1="0.000107193406%" y1="49.9997911%" x2="99.9998875%" y2="49.9997911%" id="linearGradient-6">
+            <stop stop-color="#46C1ED" offset="0%"></stop>
+            <stop stop-color="#2877F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen-Copy" transform="translate(-354.000000, -954.000000)">
+            <g id="Camera" filter="url(#filter-1)" transform="translate(399.000000, 978.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.502000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M150.0987,204.9998 L49.9017,204.9998 C22.3417,204.9998 -0.0003,182.6578 -0.0003,155.0988 L-0.0003,50.3998 C-0.0003,22.8408 22.3417,0.4988 49.9017,0.4988 L150.0987,0.4988 C177.6587,0.4988 199.9997,22.8408 199.9997,50.3998 L199.9997,155.0988 C199.9997,182.6578 177.6587,204.9998 150.0987,204.9998" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                </g>
+                <g id="Group-6" transform="translate(27.000000, 30.502000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M0.934,72.749 C0.934,112.55 33.199,144.815 73,144.815 C112.801,144.815 145.066,112.55 145.066,72.749 C145.066,32.949 112.801,0.684 73,0.684 C33.199,0.684 0.934,32.949 0.934,72.749" id="Fill-4" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                </g>
+                <g id="Group-17" transform="translate(51.000000, 46.502000)">
+                    <path d="M97.5333,56.7488 C97.5333,29.9448 75.8043,8.2158 49.0003,8.2158 C22.1953,8.2158 0.4663,29.9448 0.4663,56.7488 C0.4663,83.5538 22.1953,105.2828 49.0003,105.2828 C75.8043,105.2828 97.5333,83.5538 97.5333,56.7488" id="Fill-7" fill="#FFFFFF"></path>
+                    <path d="M81.3467,56.7488 C81.3467,38.8848 66.8647,24.4018 48.9997,24.4018 C31.1357,24.4018 16.6537,38.8848 16.6537,56.7488 C16.6537,74.6138 31.1357,89.0958 48.9997,89.0958 C66.8647,89.0958 81.3467,74.6138 81.3467,56.7488" id="Fill-9" fill="#2877F9"></path>
+                    <path d="M70.2676,56.7488 C70.2676,45.0038 60.7466,35.4808 48.9996,35.4808 C37.2536,35.4808 27.7326,45.0038 27.7326,56.7488 C27.7326,68.4948 37.2536,78.0168 48.9996,78.0168 C60.7466,78.0168 70.2676,68.4948 70.2676,56.7488" id="Fill-11" fill="#73A7F2"></path>
+                    <path d="M61.1231,56.7488 C61.1231,50.0538 55.6951,44.6258 49.0001,44.6258 C42.3051,44.6258 36.8771,50.0538 36.8771,56.7488 C36.8771,63.4448 42.3051,68.8728 49.0001,68.8728 C55.6951,68.8728 61.1231,63.4448 61.1231,56.7488" id="Fill-13" fill="#C1E5FB"></path>
+                    <path d="M96.7403,28.8426 C96.7403,13.4306 84.2463,0.9366 68.8343,0.9366 C53.4223,0.9366 40.9273,13.4306 40.9273,28.8426 C40.9273,44.2546 53.4223,56.7486 68.8343,56.7486 C84.2463,56.7486 96.7403,44.2546 96.7403,28.8426" id="Fill-15" fill-opacity="0.4" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

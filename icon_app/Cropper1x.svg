@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="294px" viewBox="0 0 290 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Cropper@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.2%" y="-60.7%" width="224.5%" height="221.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.595722854   0 0 0 0 0.595722854   0 0 0 0 1  0 0 0 0.381765172 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M25.748,0.482 C11.622,0.482 0.169,11.934 0.169,26.06 L0.169,105.438 C0.169,119.565 11.622,131.016 25.748,131.016 L102.253,131.016 C116.379,131.016 127.831,119.565 127.831,105.438 L127.831,26.06 C127.831,11.934 116.379,0.482 102.253,0.482 L25.748,0.482 Z" id="path-2"></path>
+        <linearGradient x1="99.9998635%" y1="50.0001466%" x2="0.000136454074%" y2="50.0001466%" id="linearGradient-4">
+            <stop stop-color="#46C1ED" offset="0%"></stop>
+            <stop stop-color="#2877F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen-Copy" transform="translate(-871.000000, -1219.000000)">
+            <g id="Cropper" filter="url(#filter-1)" transform="translate(916.000000, 1244.000000)">
+                <path d="M150.098,204.5017 L49.902,204.5017 C22.342,204.5017 0,182.1597 0,154.6007 L0,49.9017 C0,22.3427 22.342,0.0007 49.902,0.0007 L150.098,0.0007 C177.659,0.0007 200,22.3427 200,49.9017 L200,154.6007 C200,182.1597 177.659,204.5017 150.098,204.5017" id="Fill-1" fill="#FFFFFF"></path>
+                <g id="Group-5" transform="translate(36.000000, 36.502000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M25.748,0.482 C11.622,0.482 0.169,11.934 0.169,26.06 L0.169,105.438 C0.169,119.565 11.622,131.016 25.748,131.016 L102.253,131.016 C116.379,131.016 127.831,119.565 127.831,105.438 L127.831,26.06 C127.831,11.934 116.379,0.482 102.253,0.482 L25.748,0.482 Z" id="Fill-3" fill="url(#linearGradient-4)" mask="url(#mask-3)"></path>
+                </g>
+                <g id="Group-10" transform="translate(36.000000, 36.502000)">
+                    <path d="M25.7484,0.4821 L67.7304,0.4821 C81.8574,0.4821 93.3094,11.9331 93.3094,26.0601 L93.3094,70.1391 C93.3094,84.2661 81.8574,95.7181 67.7304,95.7181 L25.7484,95.7181 C11.6214,95.7181 0.1694,84.2661 0.1694,70.1391 L0.1694,26.0601 C0.1694,11.9331 11.6214,0.4821 25.7484,0.4821" id="Fill-6" fill="#46C1EE"></path>
+                    <path d="M15.763,0.4821 L49.886,0.4821 C58.498,0.4821 65.481,7.4631 65.481,16.0761 L65.481,51.6691 C65.481,60.2811 58.498,67.2631 49.886,67.2631 L15.763,67.2631 C7.151,67.2631 0.169,60.2811 0.169,51.6691 L0.169,16.0761 C0.169,7.4631 7.151,0.4821 15.763,0.4821" id="Fill-8" fill="#C1E5FB"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

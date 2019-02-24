@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="294px" viewBox="0 0 290 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Tele Chat@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.2%" y="-60.4%" width="224.5%" height="220.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.595722854   0 0 0 0 0.595722854   0 0 0 0 1  0 0 0 0.381765172 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0.4983 199.9997 0.4983 199.9997 205 0 205"></polygon>
+        <path d="M52.985,0.131 C23.814,0.131 0.166,23.779 0.166,52.951 L0.166,73.792 L48.494,73.792 C77.666,73.792 101.313,50.145 101.313,20.973 L101.313,0.131 L52.985,0.131 Z" id="path-4"></path>
+        <linearGradient x1="1.54230971e-05%" y1="50.0004897%" x2="100.000735%" y2="50.0004897%" id="linearGradient-6">
+            <stop stop-color="#46C1ED" offset="0%"></stop>
+            <stop stop-color="#2877F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.687,0.705 L0.687,21.548 C0.687,50.719 24.334,74.368 53.506,74.368 L101.834,74.368 L101.834,53.524 C101.834,24.354 78.186,0.705 49.015,0.705 L0.687,0.705 Z" id="path-7"></path>
+        <linearGradient x1="-0.000735167627%" y1="50.00004%" x2="99.9999846%" y2="50.00004%" id="linearGradient-9">
+            <stop stop-color="#FF548E" offset="0%"></stop>
+            <stop stop-color="#FD2A5B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen-Copy" transform="translate(-612.000000, -1219.000000)">
+            <g id="Tele-Chat" filter="url(#filter-1)" transform="translate(657.000000, 1243.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.502000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M150.0987,205.0003 L49.9017,205.0003 C22.3417,205.0003 -0.0003,182.6583 -0.0003,155.0983 L-0.0003,50.3993 C-0.0003,22.8403 22.3417,0.4983 49.9017,0.4983 L150.0987,0.4983 C177.6587,0.4983 199.9997,22.8403 199.9997,50.3993 L199.9997,155.0983 C199.9997,182.6583 177.6587,205.0003 150.0987,205.0003" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                </g>
+                <g id="Group-6" transform="translate(60.000000, 76.502000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M52.985,0.131 C23.814,0.131 0.166,23.779 0.166,52.951 L0.166,73.792 L48.494,73.792 C77.666,73.792 101.313,50.145 101.313,20.973 L101.313,0.131 L52.985,0.131 Z" id="Fill-4" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                </g>
+                <g id="Group-9" transform="translate(38.000000, 55.502000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <path d="M0.687,0.705 L0.687,21.548 C0.687,50.719 24.334,74.368 53.506,74.368 L101.834,74.368 L101.834,53.524 C101.834,24.354 78.186,0.705 49.015,0.705 L0.687,0.705 Z" id="Fill-7" fill="url(#linearGradient-9)" mask="url(#mask-8)"></path>
+                </g>
+                <g id="Group-16" transform="translate(62.000000, 85.502000)" fill="#FFFFFF">
+                    <path d="M14.5313,7.5365 C14.5313,3.7705 11.4783,0.7195 7.7143,0.7195 C3.9483,0.7195 0.8953,3.7705 0.8953,7.5365 C0.8953,11.3025 3.9483,14.3545 7.7143,14.3545 C11.4783,14.3545 14.5313,11.3025 14.5313,7.5365" id="Fill-10"></path>
+                    <path d="M34.0782,7.5365 C34.0782,3.7705 31.0252,0.7195 27.2602,0.7195 C23.4952,0.7195 20.4422,3.7705 20.4422,7.5365 C20.4422,11.3025 23.4952,14.3545 27.2602,14.3545 C31.0252,14.3545 34.0782,11.3025 34.0782,7.5365" id="Fill-12"></path>
+                    <path d="M53.6241,7.5365 C53.6241,3.7705 50.5721,0.7195 46.8071,0.7195 C43.0411,0.7195 39.9881,3.7705 39.9881,7.5365 C39.9881,11.3025 43.0411,14.3545 46.8071,14.3545 C50.5721,14.3545 53.6241,11.3025 53.6241,7.5365" id="Fill-14"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

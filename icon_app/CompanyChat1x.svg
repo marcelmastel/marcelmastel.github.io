@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="294px" viewBox="0 0 290 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Company Chat@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.2%" y="-60.4%" width="224.5%" height="220.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="22.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.595722854   0 0 0 0 0.595722854   0 0 0 0 1  0 0 0 0.381765172 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0.4987 199.9992 0.4987 199.9992 204.9997 0 204.9997"></polygon>
+        <path d="M0.258,29.891 C0.258,46.114 13.411,59.266 29.634,59.266 C45.858,59.266 59.009,46.114 59.009,29.891 C59.009,13.667 45.858,0.514 29.634,0.514 C13.411,0.514 0.258,13.667 0.258,29.891" id="path-4"></path>
+        <linearGradient x1="0.00133001991%" y1="49.9998691%" x2="100.000667%" y2="49.9998691%" id="linearGradient-6">
+            <stop stop-color="#FF548E" offset="0%"></stop>
+            <stop stop-color="#FD2A5B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen-Copy" transform="translate(-872.000000, -954.000000)">
+            <g id="Company-Chat" filter="url(#filter-1)" transform="translate(917.000000, 978.000000)">
+                <g id="Group-8" transform="translate(0.000000, 0.502000)">
+                    <g id="Group-3">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M150.0982,204.9997 L49.9022,204.9997 C22.3412,204.9997 -0.0008,182.6577 -0.0008,155.0987 L-0.0008,50.3997 C-0.0008,22.8407 22.3412,0.4987 49.9022,0.4987 L150.0982,0.4987 C177.6582,0.4987 199.9992,22.8407 199.9992,50.3997 L199.9992,155.0987 C199.9992,182.6577 177.6582,204.9997 150.0982,204.9997" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                    </g>
+                    <path d="M139.0191,62.6188 C139.0191,71.6678 131.6831,79.0038 122.6341,79.0038 C113.5841,79.0038 106.2481,71.6678 106.2481,62.6188 C106.2481,53.5688 113.5841,46.2328 122.6341,46.2328 C131.6831,46.2328 139.0191,53.5688 139.0191,62.6188" id="Fill-4" fill="#46C1EE"></path>
+                    <path d="M91.0133,100.5143 C91.0133,112.3953 81.3823,122.0263 69.5013,122.0263 C57.6213,122.0263 47.9913,112.3953 47.9913,100.5143 C47.9913,88.6343 57.6213,79.0033 69.5013,79.0033 C81.3823,79.0033 91.0133,88.6343 91.0133,100.5143" id="Fill-6" fill="#2877F9"></path>
+                </g>
+                <g id="Group-11" transform="translate(93.000000, 100.502000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-10"></g>
+                    <path d="M0.258,29.891 C0.258,46.114 13.411,59.266 29.634,59.266 C45.858,59.266 59.009,46.114 59.009,29.891 C59.009,13.667 45.858,0.514 29.634,0.514 C13.411,0.514 0.258,13.667 0.258,29.891" id="Fill-9" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

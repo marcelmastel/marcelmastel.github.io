@@ -1,0 +1,210 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+ul, li {
+  list-style-type: none;
+  margin: 0;
+  margin-block-start: 0;
+
+}
+
+
+.menu {
+  position: relative;
+  height: 100vw;
+  background-color: #F4F4F6;
+  
+}
+
+.menu ul .list {
+  padding: 10px 0 10px 16px;
+  cursor: pointer;
+  position: relative;
+}
+.menu-fixed {
+  position: fixed;
+  height: 100vw;
+  background-color: #F4F4F6;
+  
+}
+
+.menu-fixed ul .list {
+  padding: 10px 0 10px 16px;
+  cursor: pointer;
+  position: relative;
+}
+
+.list span {
+  padding-left: 10px;
+}
+
+.logo img{
+  width: 250px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.img-icon {
+  width: 24px;
+  
+}
+
+.search {
+  text-align: right;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.no-border {
+  border:  none;
+}
+
+.search .fas {
+  padding-top: 8px;
+  padding-left: 15px;
+}
+h1, h3 {
+  font-weight: bold;
+}
+h6 {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+
+
+.card-row-first {
+  margin-left: -30px;
+}
+
+.tuttApplogo {
+  width: 47px;
+  height: 60px;
+  background: url('../icon_app/10tuttoapposto.png') 0 0 no-repeat;
+  background-size: contain;
+  position: absolute;
+  top: 62px;
+  left: 246px;
+  z-index: 9;
+}
+.tuttApplogoCenter {
+  width: 68px;
+  height: 70px;
+  background: url(../icon_app/10tuttoapposto.png) 0 0 no-repeat;
+  background-size: contain;
+  position: absolute;
+  top: 117px;
+  left: 149px;
+  top: 125px;
+    left: 155px;
+  z-index: 9;
+  border-radius: 100px;
+  
+}
+
+
+
+.card-ttap {
+  width: 400px;
+  height: 237px;
+  background: url('../card/CardTuttoapposto1x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+.card-explore {
+  width: 400px;
+  height: 237px;
+  background: url('../card/CardExplore1x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+
+.title-card {
+  margin-left: 42px;
+  
+}
+
+.title {
+  color: #898997;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.subtitle {
+  color: #898997;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+
+.download {
+  background: url('../img/DownloadLarge1x.svg') 0 0 no-repeat;
+  background-size: contain;
+  width: 100px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.fs-small {
+  font-size: 10px;
+  text-align: center;
+  color: #898997;
+}
+
+.list-iconApp {
+  margin-top: 10px;
+}
+
+.list-iconApp .subtitle {
+  color: #898997;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+.iconApp {
+  width: 100px;
+  height: 85px;
+}
+
+.list-scaricate {
+  margin: 0;
+  padding: 35px 0 0;
+}
+
+.iconApp-ipermap {
+  background: url('../icon_app/IperMap3x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+.iconApp-facenet {
+  background: url('../icon_app/FaceNet1x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+.iconApp-camera {
+  background: url('../icon_app/Camera1x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+.iconApp-flash {
+  background: url('../icon_app/FlashMessage1x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+.iconApp-company {
+  background: url('../icon_app/CompanyChat1x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+.iconApp-layouter {
+  background: url('../icon_app/Layouter1x.svg') 0 0 no-repeat;
+  background-size: contain;
+}
+.iconTitle {
+  padding-top: 5px;
+}
+.iconDown {
+  text-align: center;
+  padding-top: 10px;
+}
+
+
